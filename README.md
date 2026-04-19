@@ -1,6 +1,4 @@
 
-:::writing{variant=“standard” id=“81234”}
-
 Customer Churn Analysis 📊
 
 📌 Project Overview
